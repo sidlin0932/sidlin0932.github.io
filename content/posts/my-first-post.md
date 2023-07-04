@@ -20,3 +20,41 @@ _cool_
 **_cool_**
 _**cool**_
 ~~haha~~
+> not check
+- 1
+* 1
++ 1
+1. 1
+2. 2
+3. 3
+
+- [ ] not check
+- [X] not check too
+
+`Markdown`
+```Markdown = 
+#test only in this line
+what if if 
+for i in range:
+{
+    you can say that again
+
+}
+```
+
+```Python
+
+for i in range:
+{surprise
+
+}
+```
+
+---
+forgive
+forgave 
+forgiven
+***
+
+[Google](https://giphy.com/gifs/dance-flower-moves-B0MLpbgnBuGqLSHucX)
+![Flower](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY20ya2gxbnV0ZmR3NW1lMGtpNzJ2aWVzdmw4MDJtZXJ4ZG1ocnpuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/B0MLpbgnBuGqLSHucX/giphy.gif)

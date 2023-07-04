@@ -1,4 +1,23 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://sidlin0932.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "PaperMod"
+bulidDrafts - false
+
+[[menu.main]]
+identifier = "tags"
+name = "tags"
+url = "/tags/"
+weight = 10
+
+[[menu.main]]
+identifier = "categories"
+name = "Categories"
+url = "/categories/"
+weight = 20
+
+[[menu.main]]
+identifier = "archives"
+name = "Archives"
+url = "/archives/"
+weight = 30
