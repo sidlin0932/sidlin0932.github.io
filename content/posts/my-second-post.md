@@ -1,3 +1,4 @@
+---
 title: "mySecondPost"
 date: date
 draft: false
