@@ -1,5 +1,5 @@
 ---
-title: "mySecondPost"
+title: "My Second Post"
 date: date
 draft: false
 tags: ["code","test"]
